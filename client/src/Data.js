@@ -1,0 +1,30 @@
+export const NotificationsData = [
+    {
+        id:1,
+        title:'success-example',
+        message:'success-example',
+        type:'success',
+        createdAt:'00.00.00'
+    },
+    {
+        id:2,
+        title:'warning-example',
+        message:'warning-example',
+        type:'warning',
+        createdAt:'00.00.00'
+    },
+    {
+        id:3,
+        title:'danger-example',
+        message:'danger-example',
+        type:'danger',
+        createdAt:'00.00.00'
+    },
+    {
+        id:4,
+        title:'info-example',
+        message:'info-example',
+        type:'info',
+        createdAt:'00.00.00'
+    },
+];
